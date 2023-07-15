@@ -1,4 +1,4 @@
-# chapter-8-example-12
+# chapter-8-example-2
 
 Code for example 2 from Chapter 8 of [Bootstrapping Microservices](https://www.bootstrapping-microservices.com).
 
